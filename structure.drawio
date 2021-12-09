@@ -1,47 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T11:38:34.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="N_Ohkx_7LhzPAZEZjN8g" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T11:45:00.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="ZTRsqsXSqE_gBp29BD9k" version="15.9.1" type="github">
   <diagram id="NusNNKBgmzpOXEPar8NP" name="Page-1">
     <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iKGXUn_3LbDvIN47JL6--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKGXUn_3LbDvIN47JL6--1" target="iKGXUn_3LbDvIN47JL6--2">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKGXUn_3LbDvIN47JL6--1" target="iKGXUn_3LbDvIN47JL6--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--1" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKGXUn_3LbDvIN47JL6--2" target="iKGXUn_3LbDvIN47JL6--1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKGXUn_3LbDvIN47JL6--2" target="iKGXUn_3LbDvIN47JL6--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--2" value="Web Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--2" value="Web Portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--6" value="REST Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--6" value="REST Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--10" value="Lancher Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--10" value="Lancher Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--11" value="HDFS(Model, Data)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--11" value="HDFS(Model, Data)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--12" value="SCHEDULER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--12" value="SCHEDULER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--13" value="K8s Cluster Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--13" value="K8s Cluster Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="320" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--14" value="Docker / Ubuntu (CPU, GPU, ...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--14" value="Docker / Ubuntu (CPU, GPU, ...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="160" y="400" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--18" value="Sample Generation Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="80" height="140" as="geometry" />
+        <mxCell id="iKGXUn_3LbDvIN47JL6--19" value="Few-Shot Detection Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--19" value="Few-Shot Detection Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="80" height="140" as="geometry" />
+        <mxCell id="iKGXUn_3LbDvIN47JL6--20" value="Zero-Shot Detection Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="420" y="80" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--20" value="Zero-Shot Detection Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="80" height="140" as="geometry" />
+        <mxCell id="iKGXUn_3LbDvIN47JL6--18" value="Sample Generation Job" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;sketch=0;shadow=0;absoluteArcSize=0;noLabel=0;portConstraintRotation=0;metaEdit=0;resizeHeight=0;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r1gaUft4dZzyVg30-eRN-1" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r1gaUft4dZzyVg30-eRN-2" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r1gaUft4dZzyVg30-eRN-3" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
