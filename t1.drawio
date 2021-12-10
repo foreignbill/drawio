@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T12:37:14.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="r4epW9lzCKsPFOGOnF3S" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T03:07:55.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="nRHSLYFPFGRsQGNg5ZqQ" version="15.9.1" type="github">
   <diagram id="bT_RvdWp8NG1J4fWEcfj" name="Page-1">
-    <mxGraphModel dx="946" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IkrvqSo3CmZzaB0OyivU-19" value="生成式网络模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkrvqSo3CmZzaB0OyivU-16">
+        <mxCell id="IkrvqSo3CmZzaB0OyivU-19" value="变分自编码器模型、生成式网络模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkrvqSo3CmZzaB0OyivU-16">
           <mxGeometry x="-0.4031" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -25,7 +25,7 @@
         <mxCell id="R1089J_MRiyUl4vDYddP-1" value="模型" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="60" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IkrvqSo3CmZzaB0OyivU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1089J_MRiyUl4vDYddP-2" target="IkrvqSo3CmZzaB0OyivU-12">
+        <mxCell id="IkrvqSo3CmZzaB0OyivU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1089J_MRiyUl4vDYddP-2" target="IkrvqSo3CmZzaB0OyivU-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IkrvqSo3CmZzaB0OyivU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R1089J_MRiyUl4vDYddP-2" target="IkrvqSo3CmZzaB0OyivU-17">
@@ -78,6 +78,11 @@
         </mxCell>
         <mxCell id="IkrvqSo3CmZzaB0OyivU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkrvqSo3CmZzaB0OyivU-3" target="IkrvqSo3CmZzaB0OyivU-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IkrvqSo3CmZzaB0OyivU-32" value="融合 多粒度语意嵌入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkrvqSo3CmZzaB0OyivU-25">
+          <mxGeometry x="-0.2854" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IkrvqSo3CmZzaB0OyivU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IkrvqSo3CmZzaB0OyivU-3" target="IkrvqSo3CmZzaB0OyivU-28">
           <mxGeometry relative="1" as="geometry">
