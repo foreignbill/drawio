@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T14:44:51.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3qQfvOHZjqaLzZhwwIWn" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T14:45:13.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oDOka_USuLFyB0CXyo3G" version="20.2.7" type="github">
   <diagram id="NusNNKBgmzpOXEPar8NP" name="Page-1">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="iKGXUn_3LbDvIN47JL6--6" value="应用服务平台(B)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKGXUn_3LbDvIN47JL6--10" value="任务启动服务(D)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iKGXUn_3LbDvIN47JL6--10" value="任务分发服务(D)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKGXUn_3LbDvIN47JL6--11" value="分布式文件存储服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
