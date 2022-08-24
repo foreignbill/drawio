@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T15:22:21.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W5Xyv_vFs4Ih4sYj09KH" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T15:22:45.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TMHdKVdu9GK_2Aujj_Q0" version="20.2.7" type="github">
   <diagram id="GtY6LZ8zVbbmF7SxlaTn" name="第 1 页">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-1" value="Web&lt;br&gt;(HTML、Vue)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-2" value="RESTful接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
