@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:12:10.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1Uoh6FJflOL0IIC1qpZx" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:12:51.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hMcm1cYiZq4-9iMdq7bz" version="20.2.7" type="github">
   <diagram id="GtY6LZ8zVbbmF7SxlaTn" name="第 1 页">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-42" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="590" height="62.5" as="geometry" />
+        </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="130" y="27.5" width="590" height="62.5" as="geometry" />
         </mxCell>
@@ -14,16 +17,16 @@
           <mxGeometry x="430" y="40" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-3" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="136.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-4" value="HTTP/HTTPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="280" y="136.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-5" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="136.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-6" value="TCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="480" y="136.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="160" height="210" as="geometry" />
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-40" value="展现层" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="20" y="27.5" width="90" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-41" value="通讯层" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="90" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
