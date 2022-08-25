@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:57:55.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sDLusSoLZBB3WrPSJO_Z" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:58:50.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WJQTX9yD8onKIkGUekIi" version="20.2.7" type="github">
   <diagram id="GtY6LZ8zVbbmF7SxlaTn" name="第 1 页">
     <mxGraphModel dx="1426" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,10 +187,10 @@
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-101" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#BDD980;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="352" y="700" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Mfqnt5UqTSs0oD8md9hm-32" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;shadow=1;sketch=0;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-32" value="主库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;shadow=1;sketch=0;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="725" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mfqnt5UqTSs0oD8md9hm-33" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;shadow=1;sketch=0;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-33" value="备库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;shadow=1;sketch=0;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="438" y="725" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-102" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;strokeColor=#BDD980;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="Mfqnt5UqTSs0oD8md9hm-106" value="文件系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="595" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mfqnt5UqTSs0oD8md9hm-108" value="Redis哨兵配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="770" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
