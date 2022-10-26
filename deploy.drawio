@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T10:56:25.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3nampIT9DMV6hwH7OYRS" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T10:56:48.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="C8pTerf1weM6kkI05y13" version="20.5.1" type="github">
   <diagram id="YTGX3DtG_oLVdC1y8OUs" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="jxqL1hpO2ZYqdBOo3Qa3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jxqL1hpO2ZYqdBOo3Qa3-4" target="jxqL1hpO2ZYqdBOo3Qa3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jxqL1hpO2ZYqdBOo3Qa3-4" value="加密器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="jxqL1hpO2ZYqdBOo3Qa3-4" value="编码器" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jxqL1hpO2ZYqdBOo3Qa3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jxqL1hpO2ZYqdBOo3Qa3-6" target="jxqL1hpO2ZYqdBOo3Qa3-20" edge="1">
