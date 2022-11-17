@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T07:25:34.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fyIz16igxEt_KosCl6Li" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T08:18:39.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1LVj1dw_q_SiWAVKWKYK" version="20.5.3" type="github" pages="2">
   <diagram id="c1kNA7XQLXP5zN5EKZID" name="第 1 页">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,17 @@
           <mxGeometry x="486" y="209.5" width="106" height="31" as="geometry">
             <mxRectangle width="106" height="31" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YL-h_-BT9JMCYYIsXGOO" name="第 2 页">
+    <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UmwXp43K2lDlztn0F8DT-1" value="算力机详情图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="570" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
