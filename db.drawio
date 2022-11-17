@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:49:10.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="z20R_sPvP04cheNXccA_" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T14:49:37.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bIA0UgEwpqUOzwIWfiaL" version="20.5.3" type="github">
   <diagram id="l8iKmZXDf4mdo6dWSt96" name="worker_info 类图">
     <mxGraphModel dx="1154" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,52 @@
         </mxCell>
         <mxCell id="XGkscIAyU1HbfZGT-A6a-64" value="+ total_memory: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-66" value="gpu_info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneLine=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="140" height="104" as="geometry">
+            <mxRectangle x="40" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-67" value="+ driver_version: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-66">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-68" value="+ cuda_version: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-66">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-69" value="+ time: date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-66">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-70" value="+ gpus_info: list&lt;gpu_info&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-71" value="+ process_info: list&lt;process_info_type&gt;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="144" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-72" value="+ total_memory: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-73" value="process_info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneLine=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="140" height="104" as="geometry">
+            <mxRectangle x="40" y="40" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-74" value="+ driver_version: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-73">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-75" value="+ cuda_version: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-73">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-76" value="+ time: date" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="XGkscIAyU1HbfZGT-A6a-73">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-77" value="+ gpus_info: list&lt;gpu_info&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-78" value="+ process_info: list&lt;process_info_type&gt;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="144" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XGkscIAyU1HbfZGT-A6a-79" value="+ total_memory: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
