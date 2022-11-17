@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T08:49:26.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wTtC8EpVGazxEAwAhy9V" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-17T08:51:02.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_3vVaI2Fo-3XxeAV1aNW" version="20.5.3" type="github" pages="2">
   <diagram id="c1kNA7XQLXP5zN5EKZID" name="第 1 页">
     <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,22 +161,22 @@
         <mxCell id="UmwXp43K2lDlztn0F8DT-1" value="算力机详情图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="400" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="UmwXp43K2lDlztn0F8DT-54" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Title 1&lt;/span&gt;" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;" vertex="1" parent="1">
+        <mxCell id="UmwXp43K2lDlztn0F8DT-54" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;算力机名称：client_1&lt;/span&gt;" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="160" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmwXp43K2lDlztn0F8DT-55" value="Value 1" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UmwXp43K2lDlztn0F8DT-55" value="驱动版本：510.47.03" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="113" width="160" height="32" as="geometry">
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmwXp43K2lDlztn0F8DT-61" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Title 1&lt;/span&gt;" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;" vertex="1" parent="1">
+        <mxCell id="UmwXp43K2lDlztn0F8DT-61" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;上次登录：2022/8/29 01:08:00&lt;/span&gt;" style="connectable=0;recursiveResize=0;align=center;fontStyle=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="160" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmwXp43K2lDlztn0F8DT-62" value="Value 1" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UmwXp43K2lDlztn0F8DT-62" value="CUDA版本：11.6" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="113" width="160" height="32" as="geometry">
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
