@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T04:54:31.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="zehy-08HVEpPvtyPTyFp" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T04:54:37.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="b6sRUrH7MKStgoi9UcRr" type="github">
   <diagram id="W3gosLc9l-HY5uNlvlV2" name="第 1 页">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="oHjlamjH8M_cLfW_BMTL-5" value="arm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="120" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oHjlamjH8M_cLfW_BMTL-6" value="RISK-V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oHjlamjH8M_cLfW_BMTL-6" value="risk-v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oHjlamjH8M_cLfW_BMTL-8" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
