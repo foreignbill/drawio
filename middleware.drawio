@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T07:18:46.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="JJACzhIkNv7Iq7BMbMkE" type="github"><diagram id="JOcPXtAoO-LsFARbvS8L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-07T07:24:17.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="_PO7BVba8foCtk1IismE" type="github">
+  <diagram id="Z5o-XBMrTSj4fSDcp_ur" name="第 1 页">
+    <mxGraphModel dx="1154" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m2A-BP2biwovVv5hPknS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-1" target="m2A-BP2biwovVv5hPknS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-1" value="平台后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-2" target="m2A-BP2biwovVv5hPknS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-2" value="应&lt;br&gt;用&lt;br&gt;程&lt;br&gt;序&lt;br&gt;接&lt;br&gt;口" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-3" target="m2A-BP2biwovVv5hPknS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-3" value="应&lt;br&gt;用&lt;br&gt;程&lt;br&gt;序&lt;br&gt;接&lt;br&gt;口" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-4" target="m2A-BP2biwovVv5hPknS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-4" target="m2A-BP2biwovVv5hPknS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-4" value="消息中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2A-BP2biwovVv5hPknS-5" target="m2A-BP2biwovVv5hPknS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2A-BP2biwovVv5hPknS-5" value="算力设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
