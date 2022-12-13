@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T12:20:24.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="9twFfgUJ6LxHYepg8MYY" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T12:24:55.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="CGxn6fNEyenxJfC5Puc-" type="github">
   <diagram id="qqj5SGeIcp3CO3WpwL2j" name="第 1 页">
     <mxGraphModel dx="1625" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T0Joc_rf6QLan3yxdYTv-1" value="开始&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Joc_rf6QLan3yxdYTv-3" value="请求任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Joc_rf6QLan3yxdYTv-4" value="成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
