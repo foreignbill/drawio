@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T07:08:51.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h4TGQ8X2_-q5cGakG02J" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T07:09:04.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Nf86W6UqyKBF6tjMNmmv" version="20.6.2" type="github">
   <diagram id="NusNNKBgmzpOXEPar8NP" name="Page-1">
-    <mxGraphModel dx="807" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="iKGXUn_3LbDvIN47JL6--20" value="小样本学习任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="280" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="r1gaUft4dZzyVg30-eRN-2" value="基于Docker In Docker的运行环境管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="430" y="620" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8CH5YPLfcT1FWVnKCB_R-1" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=12;startSize=3;endSize=3;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
