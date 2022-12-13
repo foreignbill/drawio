@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T12:11:18.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="USyp5TqhB_CYUZXbdChL" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-13T12:11:57.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZCyHg2a4vy8w6OdM_bvi" version="20.6.2" type="github" pages="2">
   <diagram id="OcBe11owY4SYZGxnwDd0" name="第 1 页">
-    <mxGraphModel dx="1121" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1121" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kYPMdUf0o1A0_mtrnWgZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;startSize=5;endSize=5;fillColor=#0D0D0D;curved=1;fontFamily=Times New Roman;" parent="1" source="kYPMdUf0o1A0_mtrnWgZ-1" target="kYPMdUf0o1A0_mtrnWgZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-1" value="队列A" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#6C8EBF;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-1" value="普通队列" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#6C8EBF;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="200" y="10.75" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kYPMdUf0o1A0_mtrnWgZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=2;startSize=5;endSize=5;fillColor=#0D0D0D;curved=1;fontFamily=Times New Roman;" parent="1" source="kYPMdUf0o1A0_mtrnWgZ-2" target="kYPMdUf0o1A0_mtrnWgZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-22" value="优先级高" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;labelBackgroundColor=default;" parent="kYPMdUf0o1A0_mtrnWgZ-21" vertex="1" connectable="0">
+        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-22" value="优先级高" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;labelBackgroundColor=default;fontSize=12;" parent="kYPMdUf0o1A0_mtrnWgZ-21" vertex="1" connectable="0">
           <mxGeometry x="-0.075" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-2" value="队列B" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#6C8EBF;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="kYPMdUf0o1A0_mtrnWgZ-2" value="分布式队列" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#6C8EBF;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="200" y="112.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kYPMdUf0o1A0_mtrnWgZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;startSize=5;endSize=5;fillColor=#0D0D0D;fontFamily=Times New Roman;" parent="1" source="kYPMdUf0o1A0_mtrnWgZ-3" target="_SFnGLQ0TKTR17oELBbo-7" edge="1">
@@ -34,19 +34,9 @@
             <mxPoint x="146" y="213.25" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SFnGLQ0TKTR17oELBbo-8" value="普通任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="kYPMdUf0o1A0_mtrnWgZ-14">
-          <mxGeometry x="-0.0244" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kYPMdUf0o1A0_mtrnWgZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startSize=5;endSize=5;fillColor=#0D0D0D;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;fontFamily=Times New Roman;" parent="1" source="_SFnGLQ0TKTR17oELBbo-7" target="kYPMdUf0o1A0_mtrnWgZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="103.5" y="255.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_SFnGLQ0TKTR17oELBbo-9" value="分布式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="kYPMdUf0o1A0_mtrnWgZ-15">
-          <mxGeometry x="-0.2088" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_SFnGLQ0TKTR17oELBbo-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=12;startSize=4;endSize=4;targetPerimeterSpacing=15;" edge="1" parent="1" source="kYPMdUf0o1A0_mtrnWgZ-19">
