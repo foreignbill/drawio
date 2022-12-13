@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T16:08:00.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_y9MdbqGsS0JfKZr_eDW" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-13T16:08:06.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qL4yov6k6yu79YplbUV9" version="20.6.2" type="github" pages="2">
   <diagram id="OcBe11owY4SYZGxnwDd0" name="第 1 页">
     <mxGraphModel dx="1412" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hAXhSOhgGF7HtPJT5M9q-2" value="算力设备" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0]];fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="250" y="30" width="40" height="40" as="geometry" />
+          <mxGeometry x="310" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hAXhSOhgGF7HtPJT5M9q-12" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="10" y="35" width="60" height="30" as="geometry" />
