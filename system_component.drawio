@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T08:03:32.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YzDtp_R0HjGsaEb2UWsu" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T08:03:39.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Yzs4BHONdsEi4wfwlORN" version="20.6.2" type="github">
   <diagram id="T4UDnfhCMoo4zJimxHuG" name="第 1 页">
     <mxGraphModel dx="1412" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="T2MhVrFw25erT-pWojM3-7" value="算力设备" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="210" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T2MhVrFw25erT-pWojM3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;curved=1;endSize=4;startSize=4;" parent="1" source="T2MhVrFw25erT-pWojM3-8" target="T2MhVrFw25erT-pWojM3-2" edge="1">
+        <mxCell id="T2MhVrFw25erT-pWojM3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;curved=1;endSize=4;startSize=4;exitX=0.091;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="T2MhVrFw25erT-pWojM3-8" target="T2MhVrFw25erT-pWojM3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2MhVrFw25erT-pWojM3-8" value="因特网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Times New Roman;" parent="1" vertex="1">
