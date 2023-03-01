@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T03:44:40.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yTRnjBqFGZXjBAzTB7q3" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T03:54:05.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QhU-_o6NnbcGCtsMuIoE" version="20.8.23" type="github">
   <diagram name="第 1 页" id="l8a9ak8CeiPRDKVeQNTY">
     <mxGraphModel dx="1148" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,22 @@
           <mxGeometry x="240" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qF_naeectHskRkAO3UdH-9" value="任务控制设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qF_naeectHskRkAO3UdH-10" value="心跳描述符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF_naeectHskRkAO3UdH-11" value="分布式锁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF_naeectHskRkAO3UdH-12" value="环境配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF_naeectHskRkAO3UdH-13" value="指令队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF_naeectHskRkAO3UdH-14" value="日志信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
