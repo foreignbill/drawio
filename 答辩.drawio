@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T18:10:53.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uNyF4y5HLxeanzHCG77t" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-03T18:11:47.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zVMoFop6WO6qxIIeeSDz" version="20.8.23" type="github" pages="3">
   <diagram name="component" id="xkhg4Br_krYlI8rWMKd5">
     <mxGraphModel dx="1531" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="VWwxnhp3WLPLlCIcdDbB-11" value="&lt;ol&gt;&lt;li&gt;模型生产&lt;/li&gt;&lt;li&gt;模型评估&lt;/li&gt;&lt;li&gt;容器化训练、进度可视化&lt;/li&gt;&lt;li&gt;多种框架支持&lt;/li&gt;&lt;li&gt;资源管理、调试分析&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VWwxnhp3WLPLlCIcdDbB-12" value="&lt;ol&gt;&lt;li&gt;模型转换&lt;/li&gt;&lt;li&gt;异构支持&lt;/li&gt;&lt;li&gt;结构化平台&lt;/li&gt;&lt;li&gt;智能部署&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
