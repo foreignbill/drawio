@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T17:44:11.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="w9-sTA51goQ5_QyH53AX" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-03T17:44:35.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CMU7wkoeWdKmmW7nZ0St" version="20.8.23" type="github" pages="3">
   <diagram name="component" id="xkhg4Br_krYlI8rWMKd5">
     <mxGraphModel dx="1531" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,12 @@
         </mxCell>
         <mxCell id="VWwxnhp3WLPLlCIcdDbB-6" value="模型库" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fontFamily=Times New Roman;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="300" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWwxnhp3WLPLlCIcdDbB-7" value="小样本学习训练" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fontFamily=Times New Roman;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWwxnhp3WLPLlCIcdDbB-8" value="小样本学习推理" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fontFamily=Times New Roman;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
