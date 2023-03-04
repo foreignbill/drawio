@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:06:35.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gf0mTXLIOdQz-SVig-xY" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:07:50.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="notB0INyuToQAOHDNONk" version="20.8.23" type="github" pages="3">
   <diagram id="b3hCAYV5xsGDJO1Qj9GW" name="第 1 页">
     <mxGraphModel dx="1148" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,26 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="任务操作" link="https://www.draw.io" id="ofi7xKXRo71Cz8gLYX2U-79">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=9;fontFamily=Times New Roman;" vertex="1" parent="1">
+            <mxGeometry x="470" y="120" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="任务操作" link="https://www.draw.io" id="ofi7xKXRo71Cz8gLYX2U-80">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=9;fontFamily=Times New Roman;" vertex="1" parent="1">
+            <mxGeometry x="470" y="160" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="任务操作" link="https://www.draw.io" id="ofi7xKXRo71Cz8gLYX2U-81">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=9;fontFamily=Times New Roman;" vertex="1" parent="1">
+            <mxGeometry x="470" y="200" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="任务操作" link="https://www.draw.io" id="ofi7xKXRo71Cz8gLYX2U-82">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;fontSize=9;fontFamily=Times New Roman;" vertex="1" parent="1">
+            <mxGeometry x="470" y="240" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
