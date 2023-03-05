@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T14:13:39.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xlTSxiXZsZG_bQdBtJR4" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T14:34:21.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vEoGRx3B9Yyq8Nkzp3mr" version="21.0.2" type="github">
   <diagram name="用例图" id="PYAWXqKuNOvCYlCDB6bX">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="310" y="524.5" width="20" height="55.5" as="geometry" />
         </mxCell>
         <mxCell id="WddI8DxRprgtpwfiky0t-7" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="450" width="90" height="60" as="geometry" />
+          <mxGeometry x="425" y="440" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WddI8DxRprgtpwfiky0t-9" value="小样本任务创建" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="155" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WddI8DxRprgtpwfiky0t-10" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="180" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WddI8DxRprgtpwfiky0t-12" value="登陆验证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="90" height="60" as="geometry" />
