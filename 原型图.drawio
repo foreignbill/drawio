@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T12:23:48.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Tmh0-2YOPM-4-etwScEA" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-06T12:25:57.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kOyJcmmGY7wA4N5An_OT" version="21.0.2" type="github" pages="4">
   <diagram id="b3hCAYV5xsGDJO1Qj9GW" name="第 1 页">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -612,7 +612,7 @@
             <mxRectangle width="70" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CAFr92NH9Y6OD8DLghCA-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Fangsong;" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-74">
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-76" value="并发性、参数调整等" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontFamily=Fangsong;" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-74">
           <mxGeometry x="70" width="400" height="50" as="geometry">
             <mxRectangle width="400" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -631,6 +631,60 @@
         </mxCell>
         <mxCell id="CAFr92NH9Y6OD8DLghCA-67" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;……&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontFamily=Fangsong;" vertex="1" parent="1">
           <mxGeometry x="390" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-78" value="" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#4C9AFF;html=1;strokeWidth=2;spacingLeft=30;fontColor=#000000;align=left" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="380" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-79" value="" style="shape=step;whiteSpace=wrap;html=1;rounded=0;strokeColor=none;strokeWidth=2;fillColor=#0A1E43;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;direction=south;size=0.65;" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-78">
+          <mxGeometry x="1" y="0.5" width="10" height="7" relative="1" as="geometry">
+            <mxPoint x="-24" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-80" value="LapStyle" style="rounded=1;arcSize=9;fillColor=#ECEDF1;strokeColor=none;html=1;strokeWidth=2;spacingLeft=4;fontColor=#000000;align=left;fontSize=11" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-78">
+          <mxGeometry y="0.5" width="70" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-81" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#58667F;strokeWidth=2" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-80">
+          <mxGeometry x="1" y="0.5" width="7" height="7" relative="1" as="geometry">
+            <mxPoint x="-14" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-84" value="" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#4C9AFF;html=1;strokeWidth=2;spacingLeft=30;fontColor=#000000;align=left" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="380" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-85" value="" style="shape=step;whiteSpace=wrap;html=1;rounded=0;strokeColor=none;strokeWidth=2;fillColor=#0A1E43;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;direction=south;size=0.65;" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-84">
+          <mxGeometry x="1" y="0.5" width="10" height="7" relative="1" as="geometry">
+            <mxPoint x="-24" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-86" value="ImageNet-CUB" style="rounded=1;arcSize=9;fillColor=#ECEDF1;strokeColor=none;html=1;strokeWidth=2;spacingLeft=4;fontColor=#000000;align=left;fontSize=11" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-84">
+          <mxGeometry y="0.5" width="110" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-87" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#58667F;strokeWidth=2" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-86">
+          <mxGeometry x="1" y="0.5" width="7" height="7" relative="1" as="geometry">
+            <mxPoint x="-14" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-90" value="" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#4C9AFF;html=1;strokeWidth=2;spacingLeft=30;fontColor=#000000;align=left" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="380" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-91" value="" style="shape=step;whiteSpace=wrap;html=1;rounded=0;strokeColor=none;strokeWidth=2;fillColor=#0A1E43;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;direction=south;size=0.65;" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-90">
+          <mxGeometry x="1" y="0.5" width="10" height="7" relative="1" as="geometry">
+            <mxPoint x="-24" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-92" value="StanfordDogs" style="rounded=1;arcSize=9;fillColor=#ECEDF1;strokeColor=none;html=1;strokeWidth=2;spacingLeft=4;fontColor=#000000;align=left;fontSize=11" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-90">
+          <mxGeometry y="0.5" width="110" height="20" relative="1" as="geometry">
+            <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAFr92NH9Y6OD8DLghCA-93" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.x;strokeColor=#58667F;strokeWidth=2" vertex="1" parent="CAFr92NH9Y6OD8DLghCA-92">
+          <mxGeometry x="1" y="0.5" width="7" height="7" relative="1" as="geometry">
+            <mxPoint x="-14" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
